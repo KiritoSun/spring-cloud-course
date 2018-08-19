@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="course-api" />
+        <module name="course-consumer-admin-8084" />
+        <module name="course-consumer-student-8082" />
+        <module name="course-consumer-teacher-8083" />
+        <module name="course-discovery-8081" />
+        <module name="course-gateway-8085" />
+        <module name="course-manage" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="course-api" target="1.8" />
+      <module name="course-consumer-admin-8084" target="1.8" />
+      <module name="course-consumer-student-8082" target="1.8" />
+      <module name="course-consumer-teacher-8083" target="1.8" />
+      <module name="course-discovery-8081" target="1.8" />
+      <module name="course-gateway-8085" target="1.8" />
+      <module name="course-manage" target="1.8" />
+      <module name="spring-cloud-course" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

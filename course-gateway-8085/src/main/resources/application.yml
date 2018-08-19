@@ -1,0 +1,17 @@
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8081/eureka/
+spring:
+  application:
+    name: gateway
+server:
+  port: 8085
+zuul:
+  routes:
+    student: /student/**
+    teacher: /teacher/**
+    admin: /admin/**
+ribbon:
+  eureka:
+    enabled: true

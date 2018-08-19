@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/course-consumer-admin-8084/course-consumer-admin-8084.iml" filepath="$PROJECT_DIR$/course-consumer-admin-8084/course-consumer-admin-8084.iml" />
+      <module fileurl="file://$PROJECT_DIR$/course-consumer-student-8082/course-consumer-student-8082.iml" filepath="$PROJECT_DIR$/course-consumer-student-8082/course-consumer-student-8082.iml" />
+      <module fileurl="file://$PROJECT_DIR$/course-consumer-teacher-8083/course-consumer-teacher-8083.iml" filepath="$PROJECT_DIR$/course-consumer-teacher-8083/course-consumer-teacher-8083.iml" />
+      <module fileurl="file://$PROJECT_DIR$/course-discovery-8081/course-discovery-8081.iml" filepath="$PROJECT_DIR$/course-discovery-8081/course-discovery-8081.iml" />
+      <module fileurl="file://$PROJECT_DIR$/course-gateway-8085/course-gateway-8085.iml" filepath="$PROJECT_DIR$/course-gateway-8085/course-gateway-8085.iml" />
+      <module fileurl="file://$PROJECT_DIR$/course-manage/course-manage.iml" filepath="$PROJECT_DIR$/course-manage/course-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/course-service-backstage/course-service-backstage.iml" filepath="$PROJECT_DIR$/course-service-backstage/course-service-backstage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/course-service-course/course-service-course.iml" filepath="$PROJECT_DIR$/course-service-course/course-service-course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/course-service-user/course-service-user.iml" filepath="$PROJECT_DIR$/course-service-user/course-service-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-course.iml" filepath="$PROJECT_DIR$/spring-cloud-course.iml" />
+    </modules>
+  </component>
+</project>
